@@ -209,6 +209,12 @@ This project was developed with the assistance of **Anthropic's Claude Opus 4.6*
 
 All AI-generated content was reviewed, verified, and where necessary corrected by the human author. The raw preset data (`.hls` files) and the structural decisions about document organization were provided by the human author.
 
+## Disclaimer
+
+The Python scripts and LaTeX source in this repository are provided primarily for explanatory purposes — to document the methodology used to compile the reference document. They are offered as-is, with no guarantee of support or ongoing maintenance.
+
+If you find errors or omissions in the reference document itself (incorrect artist attributions, missing presets, wrong hardware identifications, etc.), you are welcome to [open a GitHub issue](https://github.com/Tonalize/HelixNativePresets/issues) and we will do our best to address them.
+
 ## License
 
 The `.hls` setlist files contain factory preset data that is the intellectual property of Line 6 / Yamaha Guitar Group. They are included here for reference and interoperability purposes. The Python scripts and LaTeX source are provided as-is for personal and community use.
